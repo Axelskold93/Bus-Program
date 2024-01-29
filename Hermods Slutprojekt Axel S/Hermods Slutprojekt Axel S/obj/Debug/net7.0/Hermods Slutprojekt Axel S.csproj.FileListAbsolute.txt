@@ -1,0 +1,5 @@
+C:\Users\axels\source\repos\Hermods Slutprojekt Axel S\Hermods Slutprojekt Axel S\obj\Debug\net7.0\Hermods Slutprojekt Axel S.csproj.AssemblyReference.cache
+C:\Users\axels\source\repos\Hermods Slutprojekt Axel S\Hermods Slutprojekt Axel S\obj\Debug\net7.0\Hermods Slutprojekt Axel S.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\axels\source\repos\Hermods Slutprojekt Axel S\Hermods Slutprojekt Axel S\obj\Debug\net7.0\Hermods Slutprojekt Axel S.AssemblyInfoInputs.cache
+C:\Users\axels\source\repos\Hermods Slutprojekt Axel S\Hermods Slutprojekt Axel S\obj\Debug\net7.0\Hermods Slutprojekt Axel S.AssemblyInfo.cs
+C:\Users\axels\source\repos\Hermods Slutprojekt Axel S\Hermods Slutprojekt Axel S\obj\Debug\net7.0\Hermods Slutprojekt Axel S.csproj.CoreCompileInputs.cache
